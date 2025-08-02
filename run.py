@@ -17,10 +17,6 @@ of originating loans. You are not done being built yet, but here are the current
 ** My Preferences **
 - very concise repsonses
 - friendly tone
-- three different quote options:
-    - conservative
-    - standard
-    - aggressive
 """
 
 @mcp.tool()
